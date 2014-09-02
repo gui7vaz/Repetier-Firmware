@@ -80,7 +80,7 @@ To override EEPROM settings with config settings, set EEPROM_MODE 0
 // Unique One rev. A          = 88
 // User layout defined in userpins.h = 999
 
-#define MOTHERBOARD 33
+#define MOTHERBOARD 301
 
 #include "pins.h"
 
